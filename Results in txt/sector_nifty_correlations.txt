@@ -1,0 +1,114 @@
+Sector: NIFTY IT
+Correlation with NIFTY 50: 0.9678
+Correlation with NIFTY NEXT 50: 0.9074
+Correlation with NIFTY 100: 0.9541
+
+
+Sector: NIFTY INFRASTRUCTURE
+Correlation with NIFTY 50: 0.9262
+Correlation with NIFTY NEXT 50: 0.9568
+Correlation with NIFTY 100: 0.9464
+
+
+Sector: NIFTY REALTY
+Correlation with NIFTY 50: 0.9515
+Correlation with NIFTY NEXT 50: 0.9390
+Correlation with NIFTY 100: 0.9556
+
+
+Sector: NIFTY HEALTHCARE INDEX
+Correlation with NIFTY 50: 0.9282
+Correlation with NIFTY NEXT 50: 0.8497
+Correlation with NIFTY 100: 0.9081
+
+
+Sector: NIFTY FINANCIAL SERVICES
+Correlation with NIFTY 50: 0.9480
+Correlation with NIFTY NEXT 50: 0.9016
+Correlation with NIFTY 100: 0.9399
+
+
+Sector: NIFTY CPSE
+Correlation with NIFTY 50: 0.5320
+Correlation with NIFTY NEXT 50: 0.6348
+Correlation with NIFTY 100: 0.5741
+
+
+Sector: NIFTY PRIVATE BANK
+Correlation with NIFTY 50: 0.6343
+Correlation with NIFTY NEXT 50: 0.7052
+Correlation with NIFTY 100: 0.6661
+
+
+Sector: NIFTY CONSUMER DURABLES
+Correlation with NIFTY 50: 0.9766
+Correlation with NIFTY NEXT 50: 0.9165
+Correlation with NIFTY 100: 0.9632
+
+
+Sector: NIFTY ENERGY
+Correlation with NIFTY 50: 0.9682
+Correlation with NIFTY NEXT 50: 0.9097
+Correlation with NIFTY 100: 0.9551
+
+
+Sector: NIFTY MEDIA
+Correlation with NIFTY 50: -0.0591
+Correlation with NIFTY NEXT 50: 0.0411
+Correlation with NIFTY 100: -0.0242
+
+
+Sector: NIFTY PSU BANK
+Correlation with NIFTY 50: 0.5908
+Correlation with NIFTY NEXT 50: 0.7005
+Correlation with NIFTY 100: 0.6359
+
+
+Sector: NIFTY PSE
+Correlation with NIFTY 50: 0.8516
+Correlation with NIFTY NEXT 50: 0.9033
+Correlation with NIFTY 100: 0.8784
+
+
+Sector: NIFTY COMMODITIES
+Correlation with NIFTY 50: 0.9719
+Correlation with NIFTY NEXT 50: 0.9479
+Correlation with NIFTY 100: 0.9722
+
+
+Sector: NIFTY METAL
+Correlation with NIFTY 50: 0.9401
+Correlation with NIFTY NEXT 50: 0.8958
+Correlation with NIFTY 100: 0.9315
+
+
+Sector: NIFTY FMCG
+Correlation with NIFTY 50: 0.9331
+Correlation with NIFTY NEXT 50: 0.8661
+Correlation with NIFTY 100: 0.9172
+
+
+Sector: NIFTY OIL & GAS
+Correlation with NIFTY 50: 0.9209
+Correlation with NIFTY NEXT 50: 0.8836
+Correlation with NIFTY 100: 0.9160
+
+
+Sector: NIFTY AUTO
+Correlation with NIFTY 50: 0.7768
+Correlation with NIFTY NEXT 50: 0.8471
+Correlation with NIFTY 100: 0.8100
+
+
+Sector: NIFTY BANK
+Correlation with NIFTY 50: 0.8318
+Correlation with NIFTY NEXT 50: 0.8662
+Correlation with NIFTY 100: 0.8519
+
+
+Sector: NIFTY PHARMA
+Correlation with NIFTY 50: 0.9129
+Correlation with NIFTY NEXT 50: 0.8321
+Correlation with NIFTY 100: 0.8919
+
+

@@ -1,0 +1,49 @@
+Stock Analysis Report
+
+Overall Best Technical Indicators:
+Base Line: 0.0554
+EMA: 0.0537
+Lagging Span: 0.0536
+close: 0.0533
+Upper_BB: 0.0518
+
+Overall Worst Technical Indicators:
+fib_0.786: 0.0000
+fib_0.236: 0.0000
+fib_0.382: 0.0000
+fib_0.5: 0.0000
+fib_0.618: 0.0000
+
+Top 5 Best Performing Stocks:
+TITAN - Accuracy: 0.6086, F1 Score: 0.6490
+Top 3 indicators: high, EMA, MACD
+
+SBICARD - Accuracy: 0.6059, F1 Score: 0.6127
+Top 3 indicators: SMA, Leading Span A, close
+
+VOLTAS - Accuracy: 0.6053, F1 Score: 0.5714
+Top 3 indicators: EMA, Upper_BB, close
+
+SRF - Accuracy: 0.5921, F1 Score: 0.6310
+Top 3 indicators: Leading Span B, Leading Span A, Signal_Line
+
+MCDOWELL-N - Accuracy: 0.5855, F1 Score: 0.5962
+Top 3 indicators: Base Line, open, MACD
+
+
+Top 5 Worst Performing Stocks:
+LT - Accuracy: 0.4474, F1 Score: 0.4474
+Bottom 3 indicators: fib_0.382, fib_0.5, fib_0.618
+
+VEDL - Accuracy: 0.4539, F1 Score: 0.4713
+Bottom 3 indicators: fib_0.382, fib_0.5, fib_0.618
+
+ULTRACEMCO - Accuracy: 0.4605, F1 Score: 0.4938
+Bottom 3 indicators: fib_0.382, fib_0.5, fib_0.618
+
+CIPLA - Accuracy: 0.4671, F1 Score: 0.4044
+Bottom 3 indicators: fib_0.382, fib_0.5, fib_0.618
+
+CANBK - Accuracy: 0.4671, F1 Score: 0.5061
+Bottom 3 indicators: fib_0.382, fib_0.5, fib_0.618
+

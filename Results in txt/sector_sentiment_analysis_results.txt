@@ -1,0 +1,269 @@
+Matching Sentiment Reactions are defined as when the market reacted in the same direction as the news sentiment.
+Contrary Sentiment Reactions are when the market sentiment reacted oppositely to the news sentiment.
+
+Sector Analysis Results
+-----------------------
+Sector: NIFTY IT
+Total News: 21710
+Positive News: 30.948871487793646%
+Negative News: 8.995854444956242%
+Neutral News: 60.05527406725012%
+Matching Sentiment Reactions: 40.18885306310456%
+Contrary Sentiment Reactions: 42.031321971441734%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    COFORGE.csv: 43.99%
+    TCS.csv: 42.26%
+    TECHM.csv: 40.98%
+
+Sector: NIFTY INFRASTRUCTURE
+Total News: 43402
+Positive News: 26.901986083590618%
+Negative News: 9.084834800239621%
+Neutral News: 64.01317911616977%
+Matching Sentiment Reactions: 36.31169070549744%
+Contrary Sentiment Reactions: 49.80185244919589%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    BALKRISIND.csv: 41.26%
+    NTPC.csv: 39.61%
+    LT.csv: 39.24%
+
+Sector: NIFTY REALTY
+Total News: 2836
+Positive News: 33.92101551480959%
+Negative News: 8.638928067700988%
+Neutral News: 57.44005641748943%
+Matching Sentiment Reactions: 34.02679830747532%
+Contrary Sentiment Reactions: 54.47813822284908%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    GODREJPROP.csv: 35.64%
+    DLF.csv: 33.38%
+    OBEROIRLTY.csv: 32.60%
+
+Sector: NIFTY HEALTHCARE INDEX
+Total News: 16514
+Positive News: 29.40535303378951%
+Negative News: 8.780428727140608%
+Neutral News: 61.81421823906989%
+Matching Sentiment Reactions: 35.90892575996125%
+Contrary Sentiment Reactions: 50.09688748940293%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    DRREDDY.csv: 43.26%
+    ABBOTINDIA.csv: 40.53%
+    SUNPHARMA.csv: 38.37%
+
+Sector: NIFTY FINANCIAL SERVICES
+Total News: 38085
+Positive News: 27.758960220559274%
+Negative News: 8.368123933307075%
+Neutral News: 63.87291584613365%
+Matching Sentiment Reactions: 39.52212157017199%
+Contrary Sentiment Reactions: 45.17001444138112%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    HDFCBANK.csv: 45.65%
+    ICICIBANK.csv: 40.22%
+    SBILIFE.csv: 40.04%
+
+Sector: NIFTY CPSE
+Total News: 11340
+Positive News: 27.469135802469136%
+Negative News: 8.130511463844798%
+Neutral News: 64.40035273368606%
+Matching Sentiment Reactions: 37.98941798941799%
+Contrary Sentiment Reactions: 47.548500881834215%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    NTPC.csv: 39.61%
+    ONGC.csv: 38.23%
+    COALINDIA.csv: 37.42%
+
+Sector: NIFTY PRIVATE BANK
+Total News: 24202
+Positive News: 28.972812164283944%
+Negative News: 9.759524006280474%
+Neutral News: 61.267663829435584%
+Matching Sentiment Reactions: 40.48425749938021%
+Contrary Sentiment Reactions: 43.669944632674984%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    HDFCBANK.csv: 45.65%
+    ICICIBANK.csv: 40.22%
+    KOTAKBANK.csv: 38.53%
+
+Sector: NIFTY CONSUMER DURABLES
+Total News: 5432
+Positive News: 30.68851251840943%
+Negative News: 11.174521354933727%
+Neutral News: 58.13696612665685%
+Matching Sentiment Reactions: 38.03387334315169%
+Contrary Sentiment Reactions: 45.28718703976436%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    BATAINDIA.csv: 39.93%
+    CROMPTON.csv: 38.48%
+    HAVELLS.csv: 38.04%
+
+Sector: NIFTY 100
+Total News: 177219
+Positive News: 28.915635456694822%
+Negative News: 9.41941891106484%
+Neutral News: 61.66494563224033%
+Matching Sentiment Reactions: 37.73974573832377%
+Contrary Sentiment Reactions: 46.91088427313099%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    HDFCBANK.csv: 45.65%
+    DABUR.csv: 45.37%
+    PIIND.csv: 44.84%
+
+Sector: NIFTY 50
+Total News: 130651
+Positive News: 29.738769699428246%
+Negative News: 9.372297188693542%
+Neutral News: 60.88893311187821%
+Matching Sentiment Reactions: 38.6219776350736%
+Contrary Sentiment Reactions: 45.06280089704633%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    HDFCBANK.csv: 45.65%
+    DRREDDY.csv: 43.26%
+    TCS.csv: 42.26%
+
+Sector: NIFTY ENERGY
+Total News: 17120
+Positive News: 26.448598130841123%
+Negative News: 8.259345794392523%
+Neutral News: 65.29205607476636%
+Matching Sentiment Reactions: 37.26635514018692%
+Contrary Sentiment Reactions: 49.100467289719624%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    NTPC.csv: 39.61%
+    ONGC.csv: 38.23%
+    IOC.csv: 38.11%
+
+Sector: NIFTY MEDIA
+Total News: 3199
+Positive News: 22.944670209440453%
+Negative News: 11.097217880587685%
+Neutral News: 65.95811190997186%
+Matching Sentiment Reactions: 32.04126289465458%
+Contrary Sentiment Reactions: 58.330728352610194%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    SUNTV.csv: 41.01%
+    PVRINOX.csv: 33.70%
+    ZEEL.csv: 28.06%
+
+Sector: NIFTY PSU BANK
+Total News: 15811
+Positive News: 23.591170703940296%
+Negative News: 7.652899879830498%
+Neutral News: 68.75592941622921%
+Matching Sentiment Reactions: 36.759218265764346%
+Contrary Sentiment Reactions: 51.381949275820624%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    SBIN.csv: 39.72%
+    PNB.csv: 32.73%
+    BANKBARODA.csv: 32.69%
+
+Sector: NIFTY PSE
+Total News: 25083
+Positive News: 25.447514252681096%
+Negative News: 8.388151337559304%
+Neutral News: 66.16433440975959%
+Matching Sentiment Reactions: 36.35530040266316%
+Contrary Sentiment Reactions: 50.81927999043177%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    NTPC.csv: 39.61%
+    NMDC.csv: 38.80%
+    ONGC.csv: 38.23%
+
+Sector: NIFTY COMMODITIES
+Total News: 40893
+Positive News: 27.985229745922286%
+Negative News: 9.505294304648718%
+Neutral News: 62.509475949428996%
+Matching Sentiment Reactions: 35.71271366737584%
+Contrary Sentiment Reactions: 50.73729000073362%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    PIIND.csv: 44.84%
+    PIDILITIND.csv: 43.08%
+    NTPC.csv: 39.61%
+
+Sector: NIFTY METAL
+Total News: 19832
+Positive News: 28.948164582492943%
+Negative News: 10.588947156111335%
+Neutral News: 60.46288826139572%
+Matching Sentiment Reactions: 33.99052037111739%
+Contrary Sentiment Reactions: 53.479225494150874%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    NMDC.csv: 38.80%
+    JINDALSTEL.csv: 35.98%
+    NATIONALUM.csv: 35.65%
+
+Sector: NIFTY NEXT 50
+Total News: 46568
+Positive News: 26.606253221096033%
+Negative News: 9.551623432399932%
+Neutral News: 63.84212334650403%
+Matching Sentiment Reactions: 35.264559354062875%
+Contrary Sentiment Reactions: 52.0958598179007%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    DABUR.csv: 45.37%
+    PIIND.csv: 44.84%
+    PIDILITIND.csv: 43.08%
+
+Sector: NIFTY FMCG
+Total News: 16465
+Positive News: 30.883692681445492%
+Negative News: 9.237777102945643%
+Neutral News: 59.87853021560887%
+Matching Sentiment Reactions: 39.68417856058306%
+Contrary Sentiment Reactions: 42.380807774066206%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    DABUR.csv: 45.37%
+    ITC.csv: 42.03%
+    BRITANNIA.csv: 41.47%
+
+Sector: NIFTY OIL & GAS
+Total News: 11583
+Positive News: 25.166191832858498%
+Negative News: 9.082275748942417%
+Neutral News: 65.75153241819909%
+Matching Sentiment Reactions: 37.01977035310369%
+Contrary Sentiment Reactions: 49.538116204782874%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    ONGC.csv: 38.23%
+    IOC.csv: 38.11%
+    MGL.csv: 37.58%
+
+Sector: NIFTY AUTO
+Total News: 26927
+Positive News: 31.60396627919932%
+Negative News: 11.486611950830023%
+Neutral News: 56.909421769970656%
+Matching Sentiment Reactions: 36.450402941285695%
+Contrary Sentiment Reactions: 47.417090652504925%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    BALKRISIND.csv: 41.26%
+    MARUTI.csv: 39.49%
+    BAJAJ-AUTO.csv: 38.41%
+
+Sector: NIFTY BANK
+Total News: 37362
+Positive News: 26.671484395910284%
+Negative News: 8.792355869600128%
+Neutral News: 64.53615973448959%
+Matching Sentiment Reactions: 39.31802366040362%
+Contrary Sentiment Reactions: 46.16722873507842%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    HDFCBANK.csv: 45.65%
+    ICICIBANK.csv: 40.22%
+    SBIN.csv: 39.72%
+
+Sector: NIFTY PHARMA
+Total News: 14865
+Positive News: 29.734275142953248%
+Negative News: 8.812647157753112%
+Neutral News: 61.453077699293644%
+Matching Sentiment Reactions: 36.178943827783385%
+Contrary Sentiment Reactions: 49.64009418096199%
+Top 3 Stocks Reacting Similar to News Sentiment:
+    DRREDDY.csv: 43.26%
+    ABBOTINDIA.csv: 40.53%
+    SUNPHARMA.csv: 38.37%
+

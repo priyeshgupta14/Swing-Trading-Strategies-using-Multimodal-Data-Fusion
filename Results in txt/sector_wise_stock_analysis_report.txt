@@ -1,0 +1,441 @@
+Sector-wise Stock Analysis Report
+
+Overall Best Technical Indicators:
+Base Line: 0.0588
+close: 0.0553
+Lagging Span: 0.0552
+Upper_BB: 0.0547
+EMA: 0.0546
+
+Overall Worst Technical Indicators:
+RSI: 0.0504
+Standard_Deviation: 0.0503
+Signal_Line: 0.0497
+ADX: 0.0495
+open: 0.0491
+
+Top 5 Best Performing Sectors:
+NIFTY REALTY - Accuracy: 0.5581, F1 Score: 0.5650
+Top 3 indicators: Upper_BB, EMA, Lagging Span
+Best performing stock: GODREJPROP
+
+NIFTY PHARMA - Accuracy: 0.5395, F1 Score: 0.5263
+Top 3 indicators: Base Line, close, Leading Span A
+Best performing stock: ABBOTINDIA
+
+NIFTY FMCG - Accuracy: 0.5389, F1 Score: 0.5572
+Top 3 indicators: Base Line, high, close
+Best performing stock: BRITANNIA
+
+NIFTY HEALTHCARE INDEX - Accuracy: 0.5374, F1 Score: 0.5271
+Top 3 indicators: Base Line, close, Leading Span A
+Best performing stock: APOLLOHOSP
+
+NIFTY IT - Accuracy: 0.5352, F1 Score: 0.5598
+Top 3 indicators: Base Line, EMA, Conversion Line
+Best performing stock: PERSISTENT
+
+
+Top 5 Worst Performing Sectors:
+NIFTY MEDIA - Accuracy: 0.5044, F1 Score: 0.4904
+Bottom 3 indicators: Leading Span B, open, Lower_BB
+Worst performing stock: ZEEL
+
+NIFTY COMMODITIES - Accuracy: 0.5206, F1 Score: 0.5320
+Bottom 3 indicators: open, ADX, RSI
+Worst performing stock: BPCL
+
+NIFTY ENERGY - Accuracy: 0.5214, F1 Score: 0.5207
+Bottom 3 indicators: Signal_Line, RSI, open
+Worst performing stock: BPCL
+
+NIFTY PRIVATE BANK - Accuracy: 0.5216, F1 Score: 0.5200
+Bottom 3 indicators: ADX, open, Standard_Deviation
+Worst performing stock: FEDERALBNK
+
+NIFTY AUTO - Accuracy: 0.5217, F1 Score: 0.5188
+Bottom 3 indicators: ADX, Stochastic_Oscillator, Signal_Line
+Worst performing stock: MRF
+
+
+Detailed Sector-wise Analysis:
+
+Sector: NIFTY AUTO
+Overall Accuracy: 0.5217, F1 Score: 0.5188
+Top 5 Indicators:
+  Upper_BB: 0.0572
+  close: 0.0568
+  Base Line: 0.0567
+  Lagging Span: 0.0563
+  Lower_BB: 0.0557
+
+Top 3 Stocks in the Sector:
+  BALKRISIND - Accuracy: 0.5724, F1 Score: 0.5667
+  Top 3 indicators: ADX, Leading Span B, Lower_BB
+
+  MOTHERSON - Accuracy: 0.5611, F1 Score: 0.5333
+  Top 3 indicators: close, Leading Span A, Lower_BB
+
+  BHARATFORG - Accuracy: 0.5526, F1 Score: 0.5497
+  Top 3 indicators: close, Base Line, Lagging Span
+
+
+Sector: NIFTY BANK
+Overall Accuracy: 0.5308, F1 Score: 0.5276
+Top 5 Indicators:
+  Base Line: 0.0662
+  Upper_BB: 0.0566
+  Leading Span B: 0.0552
+  Lagging Span: 0.0550
+  high: 0.0544
+
+Top 3 Stocks in the Sector:
+  BANDHANBNK - Accuracy: 0.5880, F1 Score: 0.5635
+  Top 3 indicators: EMA, Base Line, Lagging Span
+
+  IDFCFIRSTB - Accuracy: 0.5625, F1 Score: 0.5398
+  Top 3 indicators: Base Line, high, SMA
+
+  PNB - Accuracy: 0.5625, F1 Score: 0.5366
+  Top 3 indicators: Upper_BB, Base Line, Conversion Line
+
+
+Sector: NIFTY COMMODITIES
+Overall Accuracy: 0.5206, F1 Score: 0.5320
+Top 5 Indicators:
+  Base Line: 0.0588
+  Lagging Span: 0.0566
+  EMA: 0.0559
+  low: 0.0547
+  Leading Span B: 0.0545
+
+Top 3 Stocks in the Sector:
+  SRF - Accuracy: 0.5987, F1 Score: 0.6258
+  Top 3 indicators: EMA, Leading Span B, Conversion Line
+
+  ONGC - Accuracy: 0.5658, F1 Score: 0.5875
+  Top 3 indicators: Lagging Span, MACD, Leading Span B
+
+  IOC - Accuracy: 0.5592, F1 Score: 0.5473
+  Top 3 indicators: Lower_BB, Base Line, high
+
+
+Sector: NIFTY CONSUMER DURABLES
+Overall Accuracy: 0.5296, F1 Score: 0.5329
+Top 5 Indicators:
+  EMA: 0.0602
+  Conversion Line: 0.0578
+  close: 0.0560
+  Base Line: 0.0556
+  high: 0.0549
+
+Top 3 Stocks in the Sector:
+  TITAN - Accuracy: 0.5592, F1 Score: 0.6082
+  Top 3 indicators: high, close, Conversion Line
+
+  HAVELLS - Accuracy: 0.5493, F1 Score: 0.5705
+  Top 3 indicators: EMA, Conversion Line, Upper_BB
+
+  VOLTAS - Accuracy: 0.5428, F1 Score: 0.4982
+  Top 3 indicators: EMA, low, close
+
+
+Sector: NIFTY CPSE
+Overall Accuracy: 0.5303, F1 Score: 0.5268
+Top 5 Indicators:
+  Lagging Span: 0.0570
+  close: 0.0561
+  Standard_Deviation: 0.0554
+  Leading Span B: 0.0543
+  Signal_Line: 0.0542
+
+Top 3 Stocks in the Sector:
+  ONGC - Accuracy: 0.5658, F1 Score: 0.5875
+  Top 3 indicators: Lagging Span, MACD, Leading Span B
+
+  BEL - Accuracy: 0.5493, F1 Score: 0.5449
+  Top 3 indicators: EMA, Base Line, Signal_Line
+
+  COALINDIA - Accuracy: 0.5428, F1 Score: 0.5157
+  Top 3 indicators: SMA, EMA, MACD
+
+
+Sector: NIFTY ENERGY
+Overall Accuracy: 0.5214, F1 Score: 0.5207
+Top 5 Indicators:
+  Lagging Span: 0.0565
+  Lower_BB: 0.0557
+  low: 0.0556
+  Conversion Line: 0.0550
+  SMA: 0.0549
+
+Top 3 Stocks in the Sector:
+  ONGC - Accuracy: 0.5658, F1 Score: 0.5875
+  Top 3 indicators: Lagging Span, MACD, Leading Span B
+
+  IOC - Accuracy: 0.5592, F1 Score: 0.5473
+  Top 3 indicators: Lower_BB, Base Line, high
+
+  COALINDIA - Accuracy: 0.5428, F1 Score: 0.5157
+  Top 3 indicators: SMA, EMA, MACD
+
+
+Sector: NIFTY FINANCIAL SERVICES
+Overall Accuracy: 0.5241, F1 Score: 0.5314
+Top 5 Indicators:
+  Base Line: 0.0631
+  Conversion Line: 0.0585
+  Lagging Span: 0.0550
+  close: 0.0548
+  Leading Span A: 0.0547
+
+Top 3 Stocks in the Sector:
+  SBICARD - Accuracy: 0.6059, F1 Score: 0.6215
+  Top 3 indicators: SMA, Leading Span A, low
+
+  HDFCAMC - Accuracy: 0.5622, F1 Score: 0.5824
+  Top 3 indicators: Lower_BB, Base Line, close
+
+  KOTAKBANK - Accuracy: 0.5559, F1 Score: 0.5820
+  Top 3 indicators: Base Line, Leading Span A, Upper_BB
+
+
+Sector: NIFTY FMCG
+Overall Accuracy: 0.5389, F1 Score: 0.5572
+Top 5 Indicators:
+  Base Line: 0.0581
+  high: 0.0571
+  close: 0.0556
+  Upper_BB: 0.0552
+  Leading Span B: 0.0546
+
+Top 3 Stocks in the Sector:
+  BRITANNIA - Accuracy: 0.5592, F1 Score: 0.5915
+  Top 3 indicators: close, Leading Span B, Lower_BB
+
+  MARICO - Accuracy: 0.5592, F1 Score: 0.5732
+  Top 3 indicators: Leading Span B, Lagging Span, low
+
+  GODREJCP - Accuracy: 0.5559, F1 Score: 0.5846
+  Top 3 indicators: EMA, Conversion Line, SMA
+
+
+Sector: NIFTY HEALTHCARE INDEX
+Overall Accuracy: 0.5374, F1 Score: 0.5271
+Top 5 Indicators:
+  Base Line: 0.0621
+  close: 0.0567
+  Leading Span A: 0.0557
+  Lower_BB: 0.0550
+  high: 0.0546
+
+Top 3 Stocks in the Sector:
+  APOLLOHOSP - Accuracy: 0.5822, F1 Score: 0.6116
+  Top 3 indicators: Base Line, high, EMA
+
+  ABBOTINDIA - Accuracy: 0.5691, F1 Score: 0.5467
+  Top 3 indicators: Conversion Line, SMA, Upper_BB
+
+  SUNPHARMA - Accuracy: 0.5658, F1 Score: 0.5352
+  Top 3 indicators: Base Line, close, Upper_BB
+
+
+Sector: NIFTY INFRASTRUCTURE
+Overall Accuracy: 0.5235, F1 Score: 0.5301
+Top 5 Indicators:
+  Base Line: 0.0581
+  Lagging Span: 0.0572
+  low: 0.0551
+  Upper_BB: 0.0545
+  high: 0.0545
+
+Top 3 Stocks in the Sector:
+  APOLLOHOSP - Accuracy: 0.5822, F1 Score: 0.6116
+  Top 3 indicators: Base Line, high, EMA
+
+  IRCTC - Accuracy: 0.5759, F1 Score: 0.6010
+  Top 3 indicators: Lagging Span, open, Stochastic_Oscillator
+
+  BALKRISIND - Accuracy: 0.5724, F1 Score: 0.5667
+  Top 3 indicators: ADX, Leading Span B, Lower_BB
+
+
+Sector: NIFTY IT
+Overall Accuracy: 0.5352, F1 Score: 0.5598
+Top 5 Indicators:
+  Base Line: 0.0594
+  EMA: 0.0590
+  Conversion Line: 0.0585
+  Upper_BB: 0.0550
+  close: 0.0546
+
+Top 3 Stocks in the Sector:
+  PERSISTENT - Accuracy: 0.5822, F1 Score: 0.6209
+  Top 3 indicators: Base Line, EMA, low
+
+  COFORGE - Accuracy: 0.5493, F1 Score: 0.5959
+  Top 3 indicators: EMA, Upper_BB, SMA
+
+  MPHASIS - Accuracy: 0.5493, F1 Score: 0.5356
+  Top 3 indicators: Leading Span B, Base Line, EMA
+
+
+Sector: NIFTY MEDIA
+Overall Accuracy: 0.5044, F1 Score: 0.4904
+Top 5 Indicators:
+  EMA: 0.0607
+  close: 0.0583
+  low: 0.0573
+  Upper_BB: 0.0549
+  Base Line: 0.0548
+
+Top 3 Stocks in the Sector:
+  PVRINOX - Accuracy: 0.5461, F1 Score: 0.5687
+  Top 3 indicators: Base Line, low, close
+
+  SUNTV - Accuracy: 0.5066, F1 Score: 0.4966
+  Top 3 indicators: Leading Span A, EMA, Signal_Line
+
+  ZEEL - Accuracy: 0.4605, F1 Score: 0.4058
+  Top 3 indicators: Upper_BB, EMA, low
+
+
+Sector: NIFTY METAL
+Overall Accuracy: 0.5345, F1 Score: 0.5408
+Top 5 Indicators:
+  Base Line: 0.0635
+  Lagging Span: 0.0583
+  close: 0.0569
+  low: 0.0548
+  Lower_BB: 0.0545
+
+Top 3 Stocks in the Sector:
+  NATIONALUM - Accuracy: 0.5625, F1 Score: 0.5492
+  Top 3 indicators: Leading Span B, MACD, Signal_Line
+
+  HINDCOPPER - Accuracy: 0.5592, F1 Score: 0.4463
+  Top 3 indicators: SMA, Leading Span A, close
+
+  ADANIENT - Accuracy: 0.5428, F1 Score: 0.6017
+  Top 3 indicators: EMA, Lower_BB, Lagging Span
+
+
+Sector: NIFTY OIL & GAS
+Overall Accuracy: 0.5234, F1 Score: 0.5202
+Top 5 Indicators:
+  Base Line: 0.0597
+  Conversion Line: 0.0567
+  Lower_BB: 0.0557
+  low: 0.0554
+  Leading Span B: 0.0552
+
+Top 3 Stocks in the Sector:
+  ONGC - Accuracy: 0.5658, F1 Score: 0.5875
+  Top 3 indicators: Lagging Span, MACD, Leading Span B
+
+  IOC - Accuracy: 0.5592, F1 Score: 0.5473
+  Top 3 indicators: Lower_BB, Base Line, high
+
+  IGL - Accuracy: 0.5592, F1 Score: 0.5563
+  Top 3 indicators: SMA, Leading Span B, Lower_BB
+
+
+Sector: NIFTY PHARMA
+Overall Accuracy: 0.5395, F1 Score: 0.5263
+Top 5 Indicators:
+  Base Line: 0.0593
+  close: 0.0571
+  Leading Span A: 0.0564
+  Lower_BB: 0.0554
+  Upper_BB: 0.0553
+
+Top 3 Stocks in the Sector:
+  ABBOTINDIA - Accuracy: 0.5691, F1 Score: 0.5467
+  Top 3 indicators: Conversion Line, SMA, Upper_BB
+
+  SUNPHARMA - Accuracy: 0.5658, F1 Score: 0.5352
+  Top 3 indicators: Base Line, close, Upper_BB
+
+  GLENMARK - Accuracy: 0.5658, F1 Score: 0.5510
+  Top 3 indicators: EMA, Lower_BB, Base Line
+
+
+Sector: NIFTY PRIVATE BANK
+Overall Accuracy: 0.5216, F1 Score: 0.5200
+Top 5 Indicators:
+  Base Line: 0.0596
+  Upper_BB: 0.0576
+  EMA: 0.0566
+  Lagging Span: 0.0554
+  high: 0.0549
+
+Top 3 Stocks in the Sector:
+  BANDHANBNK - Accuracy: 0.5880, F1 Score: 0.5635
+  Top 3 indicators: EMA, Base Line, Lagging Span
+
+  IDFCFIRSTB - Accuracy: 0.5625, F1 Score: 0.5398
+  Top 3 indicators: Base Line, high, SMA
+
+  KOTAKBANK - Accuracy: 0.5559, F1 Score: 0.5820
+  Top 3 indicators: Base Line, Leading Span A, Upper_BB
+
+
+Sector: NIFTY PSE
+Overall Accuracy: 0.5263, F1 Score: 0.5244
+Top 5 Indicators:
+  Lagging Span: 0.0568
+  Leading Span B: 0.0558
+  close: 0.0557
+  SMA: 0.0550
+  high: 0.0547
+
+Top 3 Stocks in the Sector:
+  IRCTC - Accuracy: 0.5759, F1 Score: 0.6010
+  Top 3 indicators: Lagging Span, open, Stochastic_Oscillator
+
+  ONGC - Accuracy: 0.5658, F1 Score: 0.5875
+  Top 3 indicators: Lagging Span, MACD, Leading Span B
+
+  IOC - Accuracy: 0.5592, F1 Score: 0.5473
+  Top 3 indicators: Lower_BB, Base Line, high
+
+
+Sector: NIFTY PSU BANK
+Overall Accuracy: 0.5296, F1 Score: 0.5329
+Top 5 Indicators:
+  Base Line: 0.0739
+  close: 0.0603
+  Upper_BB: 0.0596
+  Conversion Line: 0.0556
+  Lagging Span: 0.0547
+
+Top 3 Stocks in the Sector:
+  PNB - Accuracy: 0.5625, F1 Score: 0.5366
+  Top 3 indicators: Upper_BB, Base Line, Conversion Line
+
+  BANKBARODA - Accuracy: 0.5461, F1 Score: 0.5577
+  Top 3 indicators: Base Line, EMA, close
+
+  CANBK - Accuracy: 0.5263, F1 Score: 0.5556
+  Top 3 indicators: close, Lagging Span, Upper_BB
+
+
+Sector: NIFTY REALTY
+Overall Accuracy: 0.5581, F1 Score: 0.5650
+Top 5 Indicators:
+  Upper_BB: 0.0616
+  EMA: 0.0578
+  Lagging Span: 0.0578
+  RSI: 0.0559
+  Leading Span B: 0.0557
+
+Top 3 Stocks in the Sector:
+  GODREJPROP - Accuracy: 0.5625, F1 Score: 0.5581
+  Top 3 indicators: Upper_BB, RSI, MACD
+
+  DLF - Accuracy: 0.5592, F1 Score: 0.5964
+  Top 3 indicators: EMA, Upper_BB, Conversion Line
+
+  OBEROIRLTY - Accuracy: 0.5526, F1 Score: 0.5405
+  Top 3 indicators: Leading Span B, Lagging Span, Lower_BB
+

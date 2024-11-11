@@ -1,0 +1,7 @@
+Trading Summary:
+total_profit: 115605.9999999988
+total_trades: 1938
+winning_trades: 979
+hit_ratio: 0.5051599587203303
+average_profit_percent: 0.0006266041339026191
+yearly_gain: 17971.120102214463

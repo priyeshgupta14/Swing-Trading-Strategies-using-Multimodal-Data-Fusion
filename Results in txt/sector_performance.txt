@@ -1,0 +1,110 @@
+Sector: NIFTY IT
+Best Performance: 333.58% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -37.45% over 6 months from 2022-03-10 to 2022-07-14
+
+
+Sector: NIFTY INFRASTRUCTURE
+Best Performance: 70.17% over 1 year from 2020-07-30 to 2021-04-08
+Worst Performance: -28.59% over 1 month from 2020-03-03 to 2020-03-24
+
+
+Sector: NIFTY REALTY
+Best Performance: 188.44% over 2 years from 2020-11-23 to 2022-04-11
+Worst Performance: -46.51% over 3 months from 2020-03-17 to 2020-05-19
+
+
+Sector: NIFTY HEALTHCARE INDEX
+Best Performance: 139.25% over 2 years from 2020-04-16 to 2021-09-02
+Worst Performance: -22.10% over 1 year from 2022-01-10 to 2022-09-19
+
+
+Sector: NIFTY FINANCIAL SERVICES
+Best Performance: 118.15% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -45.90% over 1 month from 2020-03-02 to 2020-03-23
+
+
+Sector: NIFTY CPSE
+Best Performance: 122.74% over 2 years from 2021-06-15 to 2022-11-01
+Worst Performance: -53.54% over 2 years from 2018-11-01 to 2020-03-19
+
+
+Sector: NIFTY PRIVATE BANK
+Best Performance: 100.63% over 2 years from 2020-11-16 to 2022-04-04
+Worst Performance: -52.23% over 3 months from 2020-01-20 to 2020-03-23
+
+
+Sector: NIFTY CONSUMER DURABLES
+Best Performance: 220.29% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -35.61% over 1 month from 2020-03-02 to 2020-03-23
+
+
+Sector: NIFTY 100
+Best Performance: 108.46% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -34.84% over 1 month from 2020-03-02 to 2020-03-23
+
+
+Sector: NIFTY 50
+Best Performance: 133.00% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -34.87% over 1 month from 2020-03-02 to 2020-03-23
+
+
+Sector: NIFTY ENERGY
+Best Performance: 152.52% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -41.58% over 3 months from 2020-01-20 to 2020-03-23
+
+
+Sector: NIFTY MEDIA
+Best Performance: 91.20% over 2 years from 2020-11-25 to 2022-04-13
+Worst Performance: -56.85% over 2 years from 2018-12-31 to 2020-05-18
+
+
+Sector: NIFTY PSU BANK
+Best Performance: 223.50% over 2 years from 2021-06-24 to 2022-11-10
+Worst Performance: -62.31% over 1 year from 2019-09-20 to 2020-05-29
+
+
+Sector: NIFTY PSE
+Best Performance: 138.75% over 2 years from 2020-11-17 to 2022-04-05
+Worst Performance: -41.03% over 2 years from 2018-11-06 to 2020-03-24
+
+
+Sector: NIFTY COMMODITIES
+Best Performance: 118.07% over 1 year from 2020-07-30 to 2021-04-08
+Worst Performance: -32.52% over 1 month from 2020-03-13 to 2020-04-03
+
+
+Sector: NIFTY METAL
+Best Performance: 675.77% over 2 years from 2020-11-25 to 2022-04-13
+Worst Performance: -58.81% over 2 years from 2018-11-05 to 2020-03-23
+
+
+Sector: NIFTY NEXT 50
+Best Performance: 87.46% over 2 years from 2020-11-16 to 2022-04-04
+Worst Performance: -35.57% over 1 month from 2020-03-03 to 2020-03-24
+
+
+Sector: NIFTY FMCG
+Best Performance: 142.85% over 6 months from 2023-05-18 to 2023-09-21
+Worst Performance: -53.46% over 1 month from 2023-10-02 to 2023-10-23
+
+
+Sector: NIFTY OIL & GAS
+Best Performance: 90.51% over 2 years from 2020-11-13 to 2022-04-01
+Worst Performance: -37.23% over 1 month from 2020-03-02 to 2020-03-23
+
+
+Sector: NIFTY AUTO
+Best Performance: 76.25% over 2 years from 2022-08-19 to 2024-01-05
+Worst Performance: -36.41% over 2 years from 2018-12-31 to 2020-05-18
+
+
+Sector: NIFTY BANK
+Best Performance: 114.97% over 2 years from 2020-11-16 to 2022-04-04
+Worst Performance: -50.45% over 3 months from 2020-01-21 to 2020-03-24
+
+
+Sector: NIFTY PHARMA
+Best Performance: 122.63% over 2 years from 2020-04-16 to 2021-09-02
+Worst Performance: -19.19% over 1 year from 2022-02-01 to 2022-10-11
+
+

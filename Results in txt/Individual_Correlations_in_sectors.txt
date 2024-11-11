@@ -1,0 +1,75 @@
+Sector: NIFTY IT
+Strongest Correlation in NIFTY IT: ('LTIM', 'LTTS') with value 0.9777638546689241
+Weakest Correlation in NIFTY IT: ('WIPRO', 'PERSISTENT') with value 0.7194689750655312
+
+Sector: NIFTY INFRASTRUCTURE
+Strongest Correlation in NIFTY INFRASTRUCTURE: ('TATAPOWER', 'POWERGRID') with value 0.9532345673696399
+Weakest Correlation in NIFTY INFRASTRUCTURE: ('PETRONET', 'IRCTC') with value -0.6369160424069363
+
+Sector: NIFTY REALTY
+Strongest Correlation in NIFTY REALTY: ('DLF', 'OBEROIRLTY') with value 0.9682385780481259
+Weakest Correlation in NIFTY REALTY: ('GODREJPROP', 'OBEROIRLTY') with value 0.8186310042037764
+
+Sector: NIFTY HEALTHCARE INDEX
+Strongest Correlation in NIFTY HEALTHCARE INDEX: ('LALPATHLAB', 'DIVISLAB') with value 0.9603005220368582
+Weakest Correlation in NIFTY HEALTHCARE INDEX: ('GLENMARK', 'BIOCON') with value -0.15878406073809337
+
+Sector: NIFTY FINANCIAL SERVICES
+Strongest Correlation in NIFTY FINANCIAL SERVICES: ('RECLTD', 'PFC') with value 0.9851059375063383
+Weakest Correlation in NIFTY FINANCIAL SERVICES: ('LICHSGFIN', 'MUTHOOTFIN') with value -0.47994384198450685
+
+Sector: NIFTY CPSE
+Strongest Correlation in NIFTY CPSE: ('BEL', 'POWERGRID') with value 0.9589343214099222
+Weakest Correlation in NIFTY CPSE: ('COALINDIA', 'POWERGRID') with value 0.33451409946706706
+
+Sector: NIFTY PRIVATE BANK
+Strongest Correlation in NIFTY PRIVATE BANK: ('KOTAKBANK', 'HDFCBANK') with value 0.9378440382737071
+Weakest Correlation in NIFTY PRIVATE BANK: ('ICICIBANK', 'BANDHANBNK') with value -0.7018902578745184
+
+Sector: NIFTY CONSUMER DURABLES
+Strongest Correlation in NIFTY CONSUMER DURABLES: ('HAVELLS', 'DIXON') with value 0.927913069687572
+Weakest Correlation in NIFTY CONSUMER DURABLES: ('TITAN', 'CROMPTON') with value 0.574806538155158
+
+Sector: NIFTY ENERGY
+Strongest Correlation in NIFTY ENERGY: ('TATAPOWER', 'POWERGRID') with value 0.9532345673696399
+Weakest Correlation in NIFTY ENERGY: ('IOC', 'RELIANCE') with value -0.5394216678204757
+
+Sector: NIFTY MEDIA
+Strongest Correlation in NIFTY MEDIA: ('SUNTV', 'ZEEL') with value 0.883486687102603
+Weakest Correlation in NIFTY MEDIA: ('SUNTV', 'PVRINOX') with value -0.1434180455495523
+
+Sector: NIFTY PSU BANK
+Strongest Correlation in NIFTY PSU BANK: ('BANKBARODA', 'CANBK') with value 0.9498442251748581
+Weakest Correlation in NIFTY PSU BANK: ('PNB', 'SBIN') with value -0.19772883629939983
+
+Sector: NIFTY PSE
+Strongest Correlation in NIFTY PSE: ('RECLTD', 'PFC') with value 0.9851059375063383
+Weakest Correlation in NIFTY PSE: ('IRCTC', 'BPCL') with value -0.34505220191280306
+
+Sector: NIFTY COMMODITIES
+Strongest Correlation in NIFTY COMMODITIES: ('SRF', 'PIDILITIND') with value 0.9730788945900286
+Weakest Correlation in NIFTY COMMODITIES: ('IOC', 'RELIANCE') with value -0.5394216678204757
+
+Sector: NIFTY METAL
+Strongest Correlation in NIFTY METAL: ('TATASTEEL', 'HINDALCO') with value 0.9714492360016936
+Weakest Correlation in NIFTY METAL: ('NMDC', 'ADANIENT') with value 0.4383233929236537
+
+Sector: NIFTY FMCG
+Strongest Correlation in NIFTY FMCG: ('HINDUNILVR', 'DABUR') with value 0.9476371540104973
+Weakest Correlation in NIFTY FMCG: ('ITC', 'DABUR') with value 0.14369115539494062
+
+Sector: NIFTY OIL & GAS
+Strongest Correlation in NIFTY OIL & GAS: ('ONGC', 'GAIL') with value 0.8771787052721262
+Weakest Correlation in NIFTY OIL & GAS: ('IGL', 'IOC') with value -0.6157727994261052
+
+Sector: NIFTY AUTO
+Strongest Correlation in NIFTY AUTO: ('TVSMOTOR', 'M&M') with value 0.9389735565701566
+Weakest Correlation in NIFTY AUTO: ('TVSMOTOR', 'MOTHERSON') with value -0.08358211528443647
+
+Sector: NIFTY BANK
+Strongest Correlation in NIFTY BANK: ('ICICIBANK', 'AUBANK') with value 0.951533668784422
+Weakest Correlation in NIFTY BANK: ('ICICIBANK', 'BANDHANBNK') with value -0.7018902578745184
+
+Sector: NIFTY PHARMA
+Strongest Correlation in NIFTY PHARMA: ('TORNTPHARM', 'ABBOTINDIA') with value 0.9552046022001808
+Weakest Correlation in NIFTY PHARMA: ('GLENMARK', 'BIOCON') with value -0.15878406073809337

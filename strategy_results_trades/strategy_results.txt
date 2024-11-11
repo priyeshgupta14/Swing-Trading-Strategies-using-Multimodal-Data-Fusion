@@ -1,0 +1,21 @@
+Strategy 1 Results:
+
+
+Strategy 2 Results:
+{'Total Trades': 116, 'Profitable Trades': 98, 
+'Losing Trades': 18, 'Average Trades per Month': 4.833333333333333, 
+'Max Profitable Streak': 98, 'Max Losing Streak': 18, 'Hit Ratio': 0.8448275862068966, 
+'Risk Reward Ratio': 2.579911934196801, 'Average Return per Trade': 7.066114259332428, 
+'Average Profit per Trade': 9.005076684356482, 'Average Loss per Trade': -3.4904589435763103, 
+'Total Profit/Loss Percentage': 819.6692540825617}
+
+Strategy 5 Results:
+Total Trades: 58
+Profitable Trades: 36
+Losing Trades: 22
+Total Profit/Loss Percentage: 254.5613068488997
+Average Return per Trade: 4.388988049118961
+Average Profit per Trade: 9.222568379119176
+Average Loss per Trade: -3.5205070363359354
+Hit Ratio (Success Rate): 0.6206896551724138
+Risk/Reward Ratio: 2.619670486077999

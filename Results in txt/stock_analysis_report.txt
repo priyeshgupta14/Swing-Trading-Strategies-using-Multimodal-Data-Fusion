@@ -1,0 +1,49 @@
+Stock Analysis Report
+
+Overall Best Technical Indicators:
+Base Line: 0.0589
+close: 0.0559
+Lagging Span: 0.0555
+Conversion Line: 0.0546
+EMA: 0.0544
+
+Overall Worst Technical Indicators:
+Stochastic_Oscillator: 0.0502
+Standard_Deviation: 0.0499
+Signal_Line: 0.0494
+open: 0.0492
+ADX: 0.0490
+
+Top 5 Best Performing Stocks:
+SBICARD - Accuracy: 0.6059, F1 Score: 0.6215
+Top 3 indicators: SMA, Leading Span A, low
+
+SRF - Accuracy: 0.5987, F1 Score: 0.6258
+Top 3 indicators: EMA, Leading Span B, Conversion Line
+
+BANDHANBNK - Accuracy: 0.5880, F1 Score: 0.5635
+Top 3 indicators: EMA, Base Line, Lagging Span
+
+APOLLOHOSP - Accuracy: 0.5822, F1 Score: 0.6116
+Top 3 indicators: Base Line, high, EMA
+
+PERSISTENT - Accuracy: 0.5822, F1 Score: 0.6209
+Top 3 indicators: Base Line, EMA, low
+
+
+Top 5 Worst Performing Stocks:
+LT - Accuracy: 0.4572, F1 Score: 0.4518
+Bottom 3 indicators: SMA, high, EMA
+
+DIXON - Accuracy: 0.4573, F1 Score: 0.4787
+Bottom 3 indicators: Lower_BB, ADX, Leading Span A
+
+ZEEL - Accuracy: 0.4605, F1 Score: 0.4058
+Bottom 3 indicators: open, high, MACD
+
+BPCL - Accuracy: 0.4638, F1 Score: 0.4437
+Bottom 3 indicators: Upper_BB, ADX, Standard_Deviation
+
+MRF - Accuracy: 0.4671, F1 Score: 0.4088
+Bottom 3 indicators: Base Line, Signal_Line, close
+

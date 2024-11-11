@@ -1,0 +1,95 @@
+Sector: NIFTY IT
+Best Correlated Stock: LTIM with average correlation 0.9580010845977197
+Worst Correlated Stock: PERSISTENT with average correlation 0.8818755250398252
+
+
+Sector: NIFTY INFRASTRUCTURE
+Best Correlated Stock: DLF with average correlation 0.7110282844367617
+Worst Correlated Stock: PETRONET with average correlation -0.24168702505666376
+
+
+Sector: NIFTY REALTY
+Best Correlated Stock: DLF with average correlation 0.9293293183914341
+Worst Correlated Stock: GODREJPROP with average correlation 0.8794601271099842
+
+
+Sector: NIFTY HEALTHCARE INDEX
+Best Correlated Stock: DRREDDY with average correlation 0.7303449673379642
+Worst Correlated Stock: GLENMARK with average correlation 0.2395404467216414
+
+
+Sector: NIFTY FINANCIAL SERVICES
+Best Correlated Stock: BAJFINANCE with average correlation 0.701395608332186
+Worst Correlated Stock: LICHSGFIN with average correlation -0.06391573168050266
+
+
+Sector: NIFTY CPSE
+Best Correlated Stock: NTPC with average correlation 0.8360443659788468
+Worst Correlated Stock: COALINDIA with average correlation 0.6590054292770722
+
+
+Sector: NIFTY PRIVATE BANK
+Best Correlated Stock: AXISBANK with average correlation 0.4518794913651643
+Worst Correlated Stock: BANDHANBNK with average correlation 0.0381053063718866
+
+
+Sector: NIFTY CONSUMER DURABLES
+Best Correlated Stock: HAVELLS with average correlation 0.8716021833266825
+Worst Correlated Stock: BATAINDIA with average correlation 0.7713933394351095
+
+
+Sector: NIFTY ENERGY
+Best Correlated Stock: NTPC with average correlation 0.5907036616221815
+Worst Correlated Stock: BPCL with average correlation 0.08926954941229583
+
+
+Sector: NIFTY MEDIA
+Best Correlated Stock: ZEEL with average correlation 0.5977624918305714
+Worst Correlated Stock: PVRINOX with average correlation 0.25546091427985296
+
+
+Sector: NIFTY PSU BANK
+Best Correlated Stock: CANBK with average correlation 0.7829453052288561
+Worst Correlated Stock: SBIN with average correlation 0.4779042021119099
+
+
+Sector: NIFTY PSE
+Best Correlated Stock: BHEL with average correlation 0.6849485214221556
+Worst Correlated Stock: BPCL with average correlation 0.13330551632578946
+
+
+Sector: NIFTY COMMODITIES
+Best Correlated Stock: DALBHARAT with average correlation 0.7649677718409662
+Worst Correlated Stock: BPCL with average correlation -0.035538684986712324
+
+
+Sector: NIFTY METAL
+Best Correlated Stock: TATASTEEL with average correlation 0.8740365687263753
+Worst Correlated Stock: VEDL with average correlation 0.7072508052481471
+
+
+Sector: NIFTY FMCG
+Best Correlated Stock: MARICO with average correlation 0.7895522770121336
+Worst Correlated Stock: ITC with average correlation 0.4882846218247916
+
+
+Sector: NIFTY OIL & GAS
+Best Correlated Stock: MGL with average correlation 0.3530958990972493
+Worst Correlated Stock: RELIANCE with average correlation 0.08150138699143997
+
+
+Sector: NIFTY AUTO
+Best Correlated Stock: BHARATFORG with average correlation 0.7678106765826532
+Worst Correlated Stock: MOTHERSON with average correlation 0.2580351232478455
+
+
+Sector: NIFTY BANK
+Best Correlated Stock: AXISBANK with average correlation 0.5704596904410982
+Worst Correlated Stock: BANDHANBNK with average correlation -0.15830095184146023
+
+
+Sector: NIFTY PHARMA
+Best Correlated Stock: DRREDDY with average correlation 0.7228960962895622
+Worst Correlated Stock: GLENMARK with average correlation 0.2686951658370481
+
+

@@ -1,0 +1,188 @@
+underlying,symbol,serialNumber,underlying_type
+Nifty 50,NIFTY,1,IDX
+Nifty BANK,BANKNIFTY,2,IDX
+Nifty FINANCIAL SERVICES,FINNIFTY,3,IDX
+Nifty MIDCAP SELECT,MIDCPNIFTY,4,IDX
+ABB India Limited,ABB,1,EQ
+ACC Limited,ACC,2,EQ
+AU Small Finance Bank Limited,AUBANK,3,EQ
+Aarti Industries Limited,AARTIIND,4,EQ
+Abbott India Limited,ABBOTINDIA,5,EQ
+Adani Enterprises Limited,ADANIENT,6,EQ
+Adani Ports and Special Economic Zone Limited,ADANIPORTS,7,EQ
+Aditya Birla Capital Limited,ABCAPITAL,8,EQ
+Aditya Birla Fashion and Retail Limited,ABFRL,9,EQ
+Alkem Laboratories Limited,ALKEM,10,EQ
+Ambuja Cements Limited,AMBUJACEM,11,EQ
+Apollo Hospitals Enterprise Limited,APOLLOHOSP,12,EQ
+Apollo Tyres Limited,APOLLOTYRE,13,EQ
+Ashok Leyland Limited,ASHOKLEY,14,EQ
+Asian Paints Limited,ASIANPAINT,15,EQ
+Astral Limited,ASTRAL,16,EQ
+Atul Limited,ATUL,17,EQ
+Aurobindo Pharma Limited,AUROPHARMA,18,EQ
+Axis Bank Limited,AXISBANK,19,EQ
+BIRLASOFT LIMITED,BSOFT,20,EQ
+Bajaj Auto Limited,BAJAJ-AUTO,21,EQ
+Bajaj Finance Limited,BAJFINANCE,22,EQ
+Bajaj Finserv Limited,BAJAJFINSV,23,EQ
+Balkrishna Industries Limited,BALKRISIND,24,EQ
+Balrampur Chini Mills Limited,BALRAMCHIN,25,EQ
+Bandhan Bank Limited,BANDHANBNK,26,EQ
+Bank of Baroda,BANKBARODA,27,EQ
+Bata India Limited,BATAINDIA,28,EQ
+Berger Paints (I) Limited,BERGEPAINT,29,EQ
+Bharat Electronics Limited,BEL,30,EQ
+Bharat Forge Limited,BHARATFORG,31,EQ
+Bharat Heavy Electricals Limited,BHEL,32,EQ
+Bharat Petroleum Corporation Limited,BPCL,33,EQ
+Bharti Airtel Limited,BHARTIARTL,34,EQ
+Biocon Limited,BIOCON,35,EQ
+Bosch Limited,BOSCHLTD,36,EQ
+Britannia Industries Limited,BRITANNIA,37,EQ
+Can Fin Homes Limited,CANFINHOME,38,EQ
+Canara Bank,CANBK,39,EQ
+Chambal Fertilizers & Chemicals Limited,CHAMBLFERT,40,EQ
+Cholamandalam Investment and Finance Company Limited,CHOLAFIN,41,EQ
+Cipla Limited,CIPLA,42,EQ
+City Union Bank Limited,CUB,43,EQ
+Coal India Limited,COALINDIA,44,EQ
+Coforge Limited,COFORGE,45,EQ
+Colgate Palmolive (India) Limited,COLPAL,46,EQ
+Container Corporation of India Limited,CONCOR,47,EQ
+Coromandel International Limited,COROMANDEL,48,EQ
+Crompton Greaves Consumer Electricals Limited,CROMPTON,49,EQ
+Cummins India Limited,CUMMINSIND,50,EQ
+DLF Limited,DLF,51,EQ
+Dabur India Limited,DABUR,52,EQ
+Dalmia Bharat Limited,DALBHARAT,53,EQ
+Deepak Nitrite Limited,DEEPAKNTR,54,EQ
+Delta Corp Limited,DELTACORP,55,EQ
+Divi's Laboratories Limited,DIVISLAB,56,EQ
+Dixon Technologies (India) Limited,DIXON,57,EQ
+Dr. Lal Path Labs Ltd.,LALPATHLAB,58,EQ
+Dr. Reddy's Laboratories Limited,DRREDDY,59,EQ
+Eicher Motors Limited,EICHERMOT,60,EQ
+Escorts Kubota Limited,ESCORTS,61,EQ
+Exide Industries Limited,EXIDEIND,62,EQ
+GAIL (India) Limited,GAIL,63,EQ
+GMR Airports Infrastructure Limited,GMRINFRA,64,EQ
+Glenmark Pharmaceuticals Limited,GLENMARK,65,EQ
+Godrej Consumer Products Limited,GODREJCP,66,EQ
+Godrej Properties Limited,GODREJPROP,67,EQ
+Granules India Limited,GRANULES,68,EQ
+Grasim Industries Limited,GRASIM,69,EQ
+Gujarat Gas Limited,GUJGASLTD,70,EQ
+Gujarat Narmada Valley Fertilizers and Chemicals Limited,GNFC,71,EQ
+HCL Technologies Limited,HCLTECH,72,EQ
+HDFC Asset Management Company Limited,HDFCAMC,73,EQ
+HDFC Bank Limited,HDFCBANK,74,EQ
+HDFC Life Insurance Company Limited,HDFCLIFE,75,EQ
+Havells India Limited,HAVELLS,76,EQ
+Hero MotoCorp Limited,HEROMOTOCO,77,EQ
+Hindalco Industries Limited,HINDALCO,78,EQ
+Hindustan Aeronautics Limited,HAL,79,EQ
+Hindustan Copper Limited,HINDCOPPER,80,EQ
+Hindustan Petroleum Corporation Limited,HINDPETRO,81,EQ
+Hindustan Unilever Limited,HINDUNILVR,82,EQ
+ICICI Bank Limited,ICICIBANK,83,EQ
+ICICI Lombard General Insurance Company Limited,ICICIGI,84,EQ
+ICICI Prudential Life Insurance Company Limited,ICICIPRULI,85,EQ
+IDFC First Bank Limited,IDFCFIRSTB,86,EQ
+IDFC Limited,IDFC,87,EQ
+IPCA Laboratories Limited,IPCALAB,88,EQ
+ITC Limited,ITC,89,EQ
+Indiamart Intermesh Limited,INDIAMART,90,EQ
+Indian Energy Exchange Limited,IEX,91,EQ
+Indian Oil Corporation Limited,IOC,92,EQ
+Indian Railway Catering And Tourism Corporation Limited,IRCTC,93,EQ
+Indraprastha Gas Limited,IGL,94,EQ
+Indus Towers Limited,INDUSTOWER,95,EQ
+IndusInd Bank Limited,INDUSINDBK,96,EQ
+Info Edge (India) Limited,NAUKRI,97,EQ
+Infosys Limited,INFY,98,EQ
+InterGlobe Aviation Limited,INDIGO,99,EQ
+JK Cement Limited,JKCEMENT,100,EQ
+JSW Steel Limited,JSWSTEEL,101,EQ
+Jindal Steel & Power Limited,JINDALSTEL,102,EQ
+Jubilant Foodworks Limited,JUBLFOOD,103,EQ
+Kotak Mahindra Bank Limited,KOTAKBANK,104,EQ
+L&T Finance Holdings Limited,L&TFH,105,EQ
+L&T Technology Services Limited,LTTS,106,EQ
+LIC Housing Finance Limited,LICHSGFIN,107,EQ
+LTIMindtree Limited,LTIM,108,EQ
+Larsen & Toubro Limited,LT,109,EQ
+Laurus Labs Limited,LAURUSLABS,110,EQ
+Lupin Limited,LUPIN,111,EQ
+MRF Limited,MRF,112,EQ
+Mahanagar Gas Limited,MGL,113,EQ
+Mahindra & Mahindra Financial Services Limited,M&MFIN,114,EQ
+Mahindra & Mahindra Limited,M&M,115,EQ
+Manappuram Finance Limited,MANAPPURAM,116,EQ
+Marico Limited,MARICO,117,EQ
+Maruti Suzuki India Limited,MARUTI,118,EQ
+Max Financial Services Limited,MFSL,119,EQ
+Metropolis Healthcare Limited,METROPOLIS,120,EQ
+MphasiS Limited,MPHASIS,121,EQ
+Multi Commodity Exchange of India Limited,MCX,122,EQ
+Muthoot Finance Limited,MUTHOOTFIN,123,EQ
+NMDC Limited,NMDC,124,EQ
+NTPC Limited,NTPC,125,EQ
+National Aluminium Company Limited,NATIONALUM,126,EQ
+Navin Fluorine International Limited,NAVINFLUOR,127,EQ
+Nestle India Limited,NESTLEIND,128,EQ
+Oberoi Realty Limited,OBEROIRLTY,129,EQ
+Oil & Natural Gas Corporation Limited,ONGC,130,EQ
+Oracle Financial Services Software Limited,OFSS,131,EQ
+PI Industries Limited,PIIND,132,EQ
+PVR INOX Limited,PVRINOX,133,EQ
+Page Industries Limited,PAGEIND,134,EQ
+Persistent Systems Limited,PERSISTENT,135,EQ
+Petronet LNG Limited,PETRONET,136,EQ
+Pidilite Industries Limited,PIDILITIND,137,EQ
+Piramal Enterprises Limited,PEL,138,EQ
+Polycab India Limited,POLYCAB,139,EQ
+Power Finance Corporation Limited,PFC,140,EQ
+Power Grid Corporation of India Limited,POWERGRID,141,EQ
+Punjab National Bank,PNB,142,EQ
+RBL Bank Limited,RBLBANK,143,EQ
+REC Limited,RECLTD,144,EQ
+Reliance Industries Limited,RELIANCE,145,EQ
+SBI Cards and Payment Services Limited,SBICARD,146,EQ
+SBI Life Insurance Company Limited,SBILIFE,147,EQ
+SHREE CEMENT LIMITED,SHREECEM,148,EQ
+SRF Limited,SRF,149,EQ
+Samvardhana Motherson International Limited,MOTHERSON,150,EQ
+Shriram Finance Limited,SHRIRAMFIN,151,EQ
+Siemens Limited,SIEMENS,152,EQ
+State Bank of India,SBIN,153,EQ
+Steel Authority of India Limited,SAIL,154,EQ
+Sun Pharmaceutical Industries Limited,SUNPHARMA,155,EQ
+Sun TV Network Limited,SUNTV,156,EQ
+Syngene International Limited,SYNGENE,157,EQ
+TATA CONSUMER PRODUCTS LIMITED,TATACONSUM,158,EQ
+TVS Motor Company Limited,TVSMOTOR,159,EQ
+Tata Chemicals Limited,TATACHEM,160,EQ
+Tata Communications Limited,TATACOMM,161,EQ
+Tata Consultancy Services Limited,TCS,162,EQ
+Tata Motors Limited,TATAMOTORS,163,EQ
+Tata Power Company Limited,TATAPOWER,164,EQ
+Tata Steel Limited,TATASTEEL,165,EQ
+Tech Mahindra Limited,TECHM,166,EQ
+The Federal Bank  Limited,FEDERALBNK,167,EQ
+The India Cements Limited,INDIACEM,168,EQ
+The Indian Hotels Company Limited,INDHOTEL,169,EQ
+The Ramco Cements Limited,RAMCOCEM,170,EQ
+Titan Company Limited,TITAN,171,EQ
+Torrent Pharmaceuticals Limited,TORNTPHARM,172,EQ
+Trent Limited,TRENT,173,EQ
+UPL Limited,UPL,174,EQ
+UltraTech Cement Limited,ULTRACEMCO,175,EQ
+United Breweries Limited,UBL,176,EQ
+United Spirits Limited,MCDOWELL-N,177,EQ
+Vedanta Limited,VEDL,178,EQ
+Vodafone Idea Limited,IDEA,179,EQ
+Voltas Limited,VOLTAS,180,EQ
+Wipro Limited,WIPRO,181,EQ
+Zee Entertainment Enterprises Limited,ZEEL,182,EQ
+Zydus Lifesciences Limited,ZYDUSLIFE,183,EQ

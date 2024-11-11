@@ -1,0 +1,264 @@
+Sector: NIFTY IT
+Best Performance: 396.79% over 1 years 9 months from 2020-03-23 to 2022-01-04
+Top 3 Best Performing Stocks:
+PERSISTENT: 911.44% from 478.50 to 4839.75
+COFORGE: 609.87% from 861.00 to 6112.00
+LTTS: 487.33% from 1014.00 to 5955.50
+Worst Performance: -40.21% over 6 months from 2022-01-04 to 2022-07-15
+Top 3 Worst Performing Stocks:
+LTTS: -48.14% from 5955.50 to 3088.50
+LTIM: -47.46% from 7560.00 to 3972.00
+WIPRO: -45.50% from 722.00 to 393.50
+
+Sector: NIFTY INFRASTRUCTURE
+Best Performance: 85.87% over 10 months from 2020-03-23 to 2021-02-10
+Top 3 Best Performing Stocks:
+ASHOKLEY: 275.10% from 35.75 to 134.10
+GRASIM: 182.38% from 434.22 to 1226.13
+ADANIPORTS: 169.26% from 215.00 to 578.90
+Worst Performance: -31.67% over 1 years 11 months from 2018-04-27 to 2020-03-23
+Top 3 Worst Performing Stocks:
+ASHOKLEY: -77.95% from 162.10 to 35.75
+ONGC: -66.42% from 181.50 to 60.95
+TATAPOWER: -62.15% from 87.45 to 33.10
+
+Sector: NIFTY REALTY
+Best Performance: 283.95% over 1 years 5 months from 2020-05-19 to 2021-10-18
+Top 3 Best Performing Stocks:
+GODREJPROP: 329.22% from 582.00 to 2498.05
+DLF: 234.87% from 131.50 to 440.35
+OBEROIRLTY: 218.44% from 303.70 to 967.10
+Worst Performance: -47.94% over 3 months from 2020-02-06 to 2020-05-19
+Top 3 Worst Performing Stocks:
+GODREJPROP: -50.30% from 1171.00 to 582.00
+DLF: -46.52% from 245.90 to 131.50
+OBEROIRLTY: -43.45% from 537.00 to 303.70
+
+Sector: NIFTY HEALTHCARE INDEX
+Best Performance: 137.40% over 1 years 12 months from 2019-08-05 to 2021-08-03
+Top 3 Best Performing Stocks:
+LAURUSLABS: 912.05% from 63.88 to 646.50
+GRANULES: 326.52% from 89.35 to 381.10
+LALPATHLAB: 264.49% from 1070.00 to 3900.00
+Worst Performance: -25.65% over 7 months from 2021-10-04 to 2022-05-16
+Top 3 Worst Performing Stocks:
+LALPATHLAB: -40.71% from 3761.00 to 2230.00
+ZYDUSLIFE: -38.54% from 561.00 to 344.80
+METROPOLIS: -32.47% from 2880.10 to 1945.05
+
+Sector: NIFTY FINANCIAL SERVICES
+Best Performance: 144.13% over 1 years 7 months from 2020-03-23 to 2021-10-26
+Top 3 Best Performing Stocks:
+IEX: 447.43% from 45.18 to 247.33
+CHOLAFIN: 345.62% from 136.00 to 606.05
+BAJAJFINSV: 307.85% from 452.00 to 1843.49
+Worst Performance: -46.12% over 1 months from 2020-02-20 to 2020-03-23
+Top 3 Worst Performing Stocks:
+SHRIRAMFIN: -65.62% from 1350.05 to 464.20
+CHOLAFIN: -58.97% from 331.50 to 136.00
+AXISBANK: -58.42% from 745.50 to 310.00
+
+Sector: NIFTY CPSE
+Best Performance: 123.13% over 1 years 11 months from 2020-10-15 to 2022-09-15
+Top 3 Best Performing Stocks:
+BEL: 274.66% from 29.60 to 110.90
+NTPC: 122.93% from 78.50 to 175.00
+COALINDIA: 111.57% from 110.60 to 234.00
+Worst Performance: -53.04% over 1 years 11 months from 2018-04-20 to 2020-03-19
+Top 3 Worst Performing Stocks:
+ONGC: -66.48% from 182.30 to 61.10
+COALINDIA: -57.80% from 291.35 to 122.95
+BEL: -51.55% from 44.13 to 21.38
+
+Sector: NIFTY PRIVATE BANK
+Best Performance: 126.55% over 1 years 7 months from 2020-03-23 to 2021-10-26
+Top 3 Best Performing Stocks:
+INDUSINDBK: 244.54% from 335.40 to 1155.60
+ICICIBANK: 194.96% from 282.00 to 831.80
+IDFCFIRSTB: 183.87% from 18.60 to 52.80
+Worst Performance: -54.44% over 9 months from 2019-06-03 to 2020-03-23
+Top 3 Worst Performing Stocks:
+INDUSINDBK: -79.77% from 1658.00 to 335.40
+RBLBANK: -79.74% from 695.80 to 141.00
+BANDHANBNK: -70.48% from 599.50 to 177.00
+
+Sector: NIFTY CONSUMER DURABLES
+Best Performance: 276.44% over 1 years 6 months from 2020-03-23 to 2021-10-18
+Top 3 Best Performing Stocks:
+DIXON: 806.60% from 636.00 to 5766.00
+TITAN: 232.97% from 779.65 to 2596.00
+HAVELLS: 195.39% from 493.00 to 1456.25
+Worst Performance: -36.05% over 1 years 3 months from 2021-10-18 to 2023-01-27
+Top 3 Worst Performing Stocks:
+DIXON: -52.66% from 5766.00 to 2729.45
+VOLTAS: -44.13% from 1338.80 to 748.00
+CROMPTON: -31.73% from 470.15 to 320.95
+
+Sector: NIFTY 100
+Best Performance: 129.62% over 1 years 7 months from 2020-03-23 to 2021-11-12
+Top 3 Best Performing Stocks:
+ADANIENT: 1316.56% from 120.15 to 1702.00
+TATAMOTORS: 662.46% from 66.60 to 507.80
+TATAPOWER: 624.77% from 33.10 to 239.90
+Worst Performance: -35.06% over 1 months from 2020-02-13 to 2020-03-23
+Top 3 Worst Performing Stocks:
+INDUSINDBK: -72.78% from 1232.00 to 335.40
+SHRIRAMFIN: -63.53% from 1273.00 to 464.20
+TATAMOTORS: -60.74% from 169.65 to 66.60
+
+Sector: NIFTY 50
+Best Performance: 150.43% over 1 years 10 months from 2020-03-23 to 2022-01-17
+Top 3 Best Performing Stocks:
+ADANIENT: 1460.55% from 120.15 to 1875.00
+TATAMOTORS: 687.54% from 66.60 to 524.50
+HINDALCO: 462.36% from 89.80 to 505.00
+Worst Performance: -35.25% over 1 months from 2020-02-13 to 2020-03-23
+Top 3 Worst Performing Stocks:
+INDUSINDBK: -72.78% from 1232.00 to 335.40
+TATAMOTORS: -60.74% from 169.65 to 66.60
+AXISBANK: -58.45% from 746.10 to 310.00
+
+Sector: NIFTY ENERGY
+Best Performance: 161.36% over 1 years 6 months from 2020-03-23 to 2021-10-18
+Top 3 Best Performing Stocks:
+TATAPOWER: 685.35% from 33.10 to 259.95
+RELIANCE: 206.63% from 882.63 to 2706.40
+ONGC: 166.28% from 60.95 to 162.30
+Worst Performance: -42.79% over 3 months from 2019-11-28 to 2020-03-23
+Top 3 Worst Performing Stocks:
+ONGC: -54.31% from 133.40 to 60.95
+BPCL: -46.44% from 509.70 to 273.00
+RELIANCE: -43.68% from 1567.15 to 882.63
+
+Sector: NIFTY MEDIA
+Best Performance: 118.73% over 1 years 10 months from 2020-05-18 to 2022-04-12
+Top 3 Best Performing Stocks:
+PVRINOX: 160.19% from 741.00 to 1928.00
+ZEEL: 89.88% from 148.65 to 282.25
+SUNTV: 44.86% from 357.80 to 518.30
+Worst Performance: -57.41% over 1 years 11 months from 2018-06-12 to 2020-05-18
+Top 3 Worst Performing Stocks:
+ZEEL: -73.63% from 563.65 to 148.65
+SUNTV: -61.98% from 941.00 to 357.80
+PVRINOX: -47.97% from 1424.20 to 741.00
+
+Sector: NIFTY PSU BANK
+Best Performance: 227.81% over 1 years 8 months from 2020-05-19 to 2022-02-02
+Top 3 Best Performing Stocks:
+SBIN: 252.50% from 153.05 to 539.50
+CANBK: 250.33% from 76.50 to 268.00
+BANKBARODA: 199.04% from 36.50 to 109.15
+Worst Performance: -66.40% over 10 months from 2019-07-05 to 2020-05-19
+Top 3 Worst Performing Stocks:
+CANBK: -73.62% from 290.00 to 76.50
+BANKBARODA: -71.90% from 129.90 to 36.50
+PNB: -67.26% from 81.25 to 26.60
+
+Sector: NIFTY PSE
+Best Performance: 167.24% over 1 years 6 months from 2020-03-25 to 2021-10-18
+Top 3 Best Performing Stocks:
+IRCTC: 630.93% from 163.08 to 1192.00
+SAIL: 486.53% from 21.90 to 128.45
+BHEL: 273.37% from 19.90 to 74.30
+Worst Performance: -47.76% over 1 years 11 months from 2018-04-10 to 2020-03-25
+Top 3 Worst Performing Stocks:
+BHEL: -77.63% from 88.95 to 19.90
+SAIL: -71.32% from 76.35 to 21.90
+ONGC: -65.89% from 180.00 to 61.40
+
+Sector: NIFTY COMMODITIES
+Best Performance: 143.17% over 1 years 5 months from 2020-04-03 to 2021-09-15
+Top 3 Best Performing Stocks:
+DEEPAKNTR: 544.61% from 380.00 to 2449.50
+JINDALSTEL: 540.48% from 62.75 to 401.90
+DALBHARAT: 478.30% from 424.00 to 2452.00
+Worst Performance: -35.41% over 1 months from 2020-02-07 to 2020-04-03
+Top 3 Worst Performing Stocks:
+TATACHEM: -71.42% from 764.70 to 218.55
+JINDALSTEL: -68.14% from 196.95 to 62.75
+VEDL: -56.43% from 144.25 to 62.85
+
+Sector: NIFTY METAL
+Best Performance: 643.38% over 1 years 12 months from 2020-04-03 to 2022-04-01
+Top 3 Best Performing Stocks:
+ADANIENT: 1479.23% from 129.05 to 2038.00
+JINDALSTEL: 745.18% from 62.75 to 530.35
+VEDL: 545.19% from 62.85 to 405.50
+Worst Performance: -61.88% over 1 years 11 months from 2018-04-19 to 2020-04-03
+Top 3 Worst Performing Stocks:
+VEDL: -79.76% from 310.45 to 62.85
+JINDALSTEL: -75.82% from 259.55 to 62.75
+HINDCOPPER: -73.19% from 80.00 to 21.45
+
+Sector: NIFTY NEXT 50
+Best Performance: 115.02% over 1 years 7 months from 2020-03-24 to 2021-11-12
+Top 3 Best Performing Stocks:
+TATAPOWER: 591.35% from 34.70 to 239.90
+VEDL: 417.70% from 63.55 to 329.00
+IRCTC: 403.90% from 171.66 to 865.00
+Worst Performance: -35.85% over 1 months from 2020-02-07 to 2020-03-24
+Top 3 Worst Performing Stocks:
+SHRIRAMFIN: -60.57% from 1218.20 to 480.30
+CHOLAFIN: -57.75% from 338.50 to 143.00
+MOTHERSON: -57.64% from 88.23 to 37.37
+
+Sector: NIFTY FMCG
+Best Performance: 192.56% over 1 years 6 months from 2022-03-07 to 2023-09-21
+Top 3 Best Performing Stocks:
+NESTLEIND: 1203.83% from 1727.22 to 22520.00
+ITC: 98.05% from 225.95 to 447.50
+GODREJCP: 48.53% from 664.90 to 987.60
+Worst Performance: -54.06% over 1 months from 2023-09-21 to 2023-10-26
+Top 3 Worst Performing Stocks:
+NESTLEIND: -89.59% from 22520.00 to 2345.00
+DABUR: -8.71% from 559.75 to 511.00
+MARICO: -6.64% from 573.05 to 535.00
+
+Sector: NIFTY OIL & GAS
+Best Performance: 118.21% over 1 years 6 months from 2020-03-23 to 2021-10-18
+Top 3 Best Performing Stocks:
+GUJGASLTD: 226.84% from 204.00 to 666.75
+RELIANCE: 206.63% from 882.63 to 2706.40
+ONGC: 166.28% from 60.95 to 162.30
+Worst Performance: -39.23% over 1 months from 2020-01-28 to 2020-03-23
+Top 3 Worst Performing Stocks:
+ONGC: -47.82% from 116.80 to 60.95
+MGL: -43.50% from 1240.85 to 701.10
+BPCL: -43.05% from 479.40 to 273.00
+
+Sector: NIFTY AUTO
+Best Performance: 92.79% over 1 years 10 months from 2022-02-24 to 2024-01-12
+Top 3 Best Performing Stocks:
+TVSMOTOR: 238.68% from 619.55 to 2098.30
+BAJAJ-AUTO: 113.12% from 3436.55 to 7324.00
+MRF: 112.52% from 63000.00 to 133886.00
+Worst Performance: -41.85% over 1 years 11 months from 2018-04-27 to 2020-03-23
+Top 3 Worst Performing Stocks:
+TATAMOTORS: -80.22% from 336.70 to 66.60
+ASHOKLEY: -77.95% from 162.10 to 35.75
+MOTHERSON: -77.37% from 157.33 to 35.60
+
+Sector: NIFTY BANK
+Best Performance: 133.13% over 1 years 7 months from 2020-03-24 to 2021-10-26
+Top 3 Best Performing Stocks:
+INDUSINDBK: 268.49% from 313.60 to 1155.60
+ICICIBANK: 178.61% from 298.55 to 831.80
+AXISBANK: 177.21% from 304.70 to 844.65
+Worst Performance: -50.79% over 3 months from 2019-11-28 to 2020-03-24
+Top 3 Worst Performing Stocks:
+INDUSINDBK: -79.95% from 1564.35 to 313.60
+BANDHANBNK: -72.18% from 586.00 to 163.00
+AXISBANK: -59.40% from 750.50 to 304.70
+
+Sector: NIFTY PHARMA
+Best Performance: 122.72% over 1 years 12 months from 2019-08-05 to 2021-08-02
+Top 3 Best Performing Stocks:
+LAURUSLABS: 923.79% from 63.88 to 654.00
+GRANULES: 329.66% from 89.35 to 383.90
+DIVISLAB: 212.86% from 1571.10 to 4915.30
+Worst Performance: -24.81% over 7 months from 2021-10-04 to 2022-05-16
+Top 3 Worst Performing Stocks:
+ZYDUSLIFE: -38.54% from 561.00 to 344.80
+ABBOTINDIA: -29.15% from 23149.95 to 16401.00
+LUPIN: -28.54% from 961.80 to 687.30
+
